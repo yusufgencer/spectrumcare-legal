@@ -24,6 +24,10 @@ Kullanım koşulları — TR ve EN. Mağazalar kullanım koşullarını zorunlu 
 | Türkçe | https://yusufgencer.github.io/spectrumcare-legal/kosullar.html |
 | English | https://yusufgencer.github.io/spectrumcare-legal/terms.html |
 
+Hesap silme (Google Play zorunlu kılıyor — uygulama içi silmeye ek olarak
+uygulamayı kaldırmış kullanıcılar için halka açık bir sayfa gerekiyor):
+https://yusufgencer.github.io/spectrumcare-legal/hesap-silme.html
+
 Giriş sayfası: https://yusufgencer.github.io/spectrumcare-legal/
 
 Bu adresler hem App Store Connect / Play Console alanlarına, hem de uygulama
