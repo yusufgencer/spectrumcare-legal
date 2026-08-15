@@ -20,10 +20,15 @@ içine (onboarding rıza ekranı ve Ayarlar → Gizlilik) girilmelidir.
 
 Sayfalarda sarı `[köşeli parantez]` ile işaretli alanlar var; hepsi doldurulmalı:
 
-- **Veri sorumlusu** — ad soyad veya şirket unvanı, adres
-- **İletişim e-postası** — KVKK/GDPR başvurularının geleceği adres
-- **Yürürlük tarihi**
-- **Yetkili mahkeme / il** (kullanım koşullarında)
+- **İletişim e-postası** — zorunlu. KVKK/GDPR başvuruları ve Apple 5.1.1(i)
+  gereği rıza geri çekme / silme talebi buradan gelir. Play'de bireysel
+  hesaplarda zaten mağaza sayfasında halka açık gösterilir.
+- **Veri sorumlusu adı / unvanı** — zorunlu (GDPR m.13, KVKK m.10).
+  Posta adresi gerekmiyor: e-posta geçerli bir iletişim kanalı ve Play
+  bireysel hesaplarda fiziksel adresi halka açık göstermiyor. Şirketleşince
+  yeniden değerlendirilmeli.
+- **Yürürlük tarihi** — mağaza reddi sebebi değil, ama rıza sürümlemesi için
+  gerekli: kullanıcının hangi metne rıza verdiğini buradan bilirsiniz.
 
 Kalan `todo` işaretlerini bulmak için:
 
