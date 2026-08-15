@@ -5,36 +5,39 @@ GitHub Pages ile yayınlanır; uygulama kaynak kodu ayrı ve private bir repodad
 
 ## Yayın adresleri
 
-| Sayfa | URL |
+Gizlilik politikası — uygulamanın desteklediği altı dilde:
+
+| Dil | URL |
 |---|---|
-| Giriş | https://yusufgencer.github.io/spectrumcare-legal/ |
-| Gizlilik Politikası (TR) | https://yusufgencer.github.io/spectrumcare-legal/gizlilik.html |
-| Privacy Policy (EN) | https://yusufgencer.github.io/spectrumcare-legal/privacy.html |
-| Kullanım Koşulları (TR) | https://yusufgencer.github.io/spectrumcare-legal/kosullar.html |
-| Terms of Use (EN) | https://yusufgencer.github.io/spectrumcare-legal/terms.html |
+| Türkçe | https://yusufgencer.github.io/spectrumcare-legal/gizlilik.html |
+| English | https://yusufgencer.github.io/spectrumcare-legal/privacy.html |
+| Deutsch | https://yusufgencer.github.io/spectrumcare-legal/datenschutz.html |
+| Français | https://yusufgencer.github.io/spectrumcare-legal/confidentialite.html |
+| Español | https://yusufgencer.github.io/spectrumcare-legal/privacidad.html |
+| Português (BR) | https://yusufgencer.github.io/spectrumcare-legal/privacidade.html |
+
+Kullanım koşulları — TR ve EN. Mağazalar kullanım koşullarını zorunlu tutmuyor
+(zorunlu olan gizlilik politikası); diğer dillere ihtiyaç doğarsa eklenir.
+
+| Dil | URL |
+|---|---|
+| Türkçe | https://yusufgencer.github.io/spectrumcare-legal/kosullar.html |
+| English | https://yusufgencer.github.io/spectrumcare-legal/terms.html |
+
+Giriş sayfası: https://yusufgencer.github.io/spectrumcare-legal/
 
 Bu adresler hem App Store Connect / Play Console alanlarına, hem de uygulama
-içine (onboarding rıza ekranı ve Ayarlar → Gizlilik) girilmelidir.
+içine (onboarding rıza ekranı ve Ayarlar → Gizlilik) girilmelidir. Uygulama
+içinde kullanıcının diline göre uygun URL açılmalıdır.
 
-## Yayına almadan önce doldurulması gerekenler
+## Açık kalan iş
 
-Sayfalarda sarı `[köşeli parantez]` ile işaretli alanlar var; hepsi doldurulmalı:
+Politika, silme ve rıza geri çekme kanalı olarak **e-postayı** gösteriyor,
+çünkü uygulamada henüz uygulama içi bir mekanizma yok.
 
-- **İletişim e-postası** — zorunlu. KVKK/GDPR başvuruları ve Apple 5.1.1(i)
-  gereği rıza geri çekme / silme talebi buradan gelir. Play'de bireysel
-  hesaplarda zaten mağaza sayfasında halka açık gösterilir.
-- **Veri sorumlusu adı / unvanı** — zorunlu (GDPR m.13, KVKK m.10).
-  Posta adresi gerekmiyor: e-posta geçerli bir iletişim kanalı ve Play
-  bireysel hesaplarda fiziksel adresi halka açık göstermiyor. Şirketleşince
-  yeniden değerlendirilmeli.
-- **Yürürlük tarihi** — mağaza reddi sebebi değil, ama rıza sürümlemesi için
-  gerekli: kullanıcının hangi metne rıza verdiğini buradan bilirsiniz.
-
-Kalan `todo` işaretlerini bulmak için:
-
-```bash
-grep -rn 'class="todo"' *.html
-```
+**Apple 5.1.1(v)** hesap oluşturmayı destekleyen uygulamalarda *uygulama içi
+hesap silme* zorunlu tutuyor. Bu özellik eklendiğinde politikadaki 8. bölümü
+uygulama içi yolu da gösterecek şekilde güncelleyin.
 
 ## Uyarı
 
