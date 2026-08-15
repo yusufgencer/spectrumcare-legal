@@ -16,13 +16,16 @@ Gizlilik politikası — uygulamanın desteklediği altı dilde:
 | Español | https://yusufgencer.github.io/spectrumcare-legal/privacidad.html |
 | Português (BR) | https://yusufgencer.github.io/spectrumcare-legal/privacidade.html |
 
-Kullanım koşulları — TR ve EN. Mağazalar kullanım koşullarını zorunlu tutmuyor
-(zorunlu olan gizlilik politikası); diğer dillere ihtiyaç doğarsa eklenir.
+Kullanım koşulları — aynı altı dilde:
 
 | Dil | URL |
 |---|---|
 | Türkçe | https://yusufgencer.github.io/spectrumcare-legal/kosullar.html |
 | English | https://yusufgencer.github.io/spectrumcare-legal/terms.html |
+| Deutsch | https://yusufgencer.github.io/spectrumcare-legal/nutzungsbedingungen.html |
+| Français | https://yusufgencer.github.io/spectrumcare-legal/conditions.html |
+| Español | https://yusufgencer.github.io/spectrumcare-legal/terminos.html |
+| Português (BR) | https://yusufgencer.github.io/spectrumcare-legal/termos.html |
 
 Hesap silme (Google Play zorunlu kılıyor — uygulama içi silmeye ek olarak
 uygulamayı kaldırmış kullanıcılar için halka açık bir sayfa gerekiyor):
