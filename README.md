@@ -28,6 +28,9 @@ Hesap silme (Google Play zorunlu kılıyor — uygulama içi silmeye ek olarak
 uygulamayı kaldırmış kullanıcılar için halka açık bir sayfa gerekiyor):
 https://yusufgencer.github.io/spectrumcare-legal/hesap-silme.html
 
+Destek (App Store Connect zorunlu alan):
+https://yusufgencer.github.io/spectrumcare-legal/destek.html
+
 Giriş sayfası: https://yusufgencer.github.io/spectrumcare-legal/
 
 Bu adresler hem App Store Connect / Play Console alanlarına, hem de uygulama
